@@ -1,5 +1,5 @@
 # hash:sha256:89faa2995169eafa8c82f4ed1ba3ad3ed2f57d7366047acf2c7bb7f34b88c94c
-FROM registry.apps.codeocean.com/codeocean/py-r:python3.10-R4.2.2-IRkernel-ubuntu22.04
+FROM registry.codeocean.com/codeocean/py-r:python3.10-R4.2.2-IRkernel-ubuntu22.04
 
 ARG DEBIAN_FRONTEND=noninteractive
 
