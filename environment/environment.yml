@@ -1,0 +1,7 @@
+environment_version: 1
+credentials:
+- type: api-key
+  id: pgTsqeX6ddLVAI
+  description: DataBricks
+  key: API_KEY
+  secret: API_SECRET

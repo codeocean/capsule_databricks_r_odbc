@@ -1,0 +1,9 @@
+metadata_version: 1
+name: DataBricks- R - ODBC
+description: An ODBC data connector to Databricks SQL warehouse.
+tags:
+- Databricks
+- ODBC
+- Data Connectors
+authors:
+- name: Stephen Pirpinias
